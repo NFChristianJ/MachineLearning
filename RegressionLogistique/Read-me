@@ -1,0 +1,30 @@
+Projet de Scoring Bancaire avec Régression Logistique
+
+Description du Projet
+Ce projet vise à développer un modèle de scoring bancaire en utilisant la régression logistique pour prédire la probabilité qu'un client rembourse son prêt. Le modèle a été évalué sur un dataset déséquilibré de 
+crédit bancaire et a atteint une précision de 71%.
+
+Données
+Les données utilisées proviennent du dataset de crédit bancaire "German Credit Data" de l'UC Irvine Machine Learning Repository. Le dataset contient des informations sur les clients et leurs historiques de crédit.
+
+Prétraitement des Données
+- Encodage des Variables Catégorielles :
+Utilisation de l'encodage à chaud (One-Hot Encoding) pour convertir les variables catégorielles en variables numériques.
+- Normalisation des Données :
+Utilisation du StandardScaler pour normaliser les variables numériques.
+
+Modèle
+Le modèle de régression logistique a été utilisé pour prédire la probabilité de remboursement du prêt. Le modèle a été entraîné sur un ensemble de données équilibré et évalué en utilisant les métriques de 
+performance suivantes :
+- Précision : 71%
+- Matrice de Confusion :
+Réel Négatif: 131
+Faux Positifs: 11
+Faux Négatifs: 47
+Vrais Positifs: 11
+
+Contributeurs
+NFChristianJ
+
+Licence
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
