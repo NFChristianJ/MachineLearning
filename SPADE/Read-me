@@ -1,7 +1,8 @@
 Projet d'Algorithme SPADE
 
 Description du Projet
-Ce projet a été réalisé dans le cadre de du cours de Fouille de donnees. Nous avons implémenté et appliqué l'algorithme SPADE (Sequential Pattern Discovery using Equivalence classes) en utilisant le dataset Store Data. L'objectif était de découvrir des motifs séquentiels intéressants dans les données de transactions de magasins.
+Ce projet a été réalisé dans le cadre de du cours de Fouille de donnees. Nous avons implémenté et appliqué l'algorithme SPADE (Sequential Pattern Discovery using 
+Equivalence classes) en utilisant le dataset Store Data. L'objectif était de découvrir des motifs séquentiels intéressants dans les données de transactions de magasins.
 
 Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
